@@ -1,0 +1,11 @@
+# Ignore Executable files
+*
+!/**/
+!*.*
+
+
+# Debug files
+*.dSYM/
+
+# OS X DS_Store
+.DS_Store
